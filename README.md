@@ -111,3 +111,7 @@ Selection: ![#0A4300](https://placehold.it/15/0A4300/000000?text=+) (Hex: `#0A43
 Cursor: ![#FFFF66](https://placehold.it/15/FFFF66/000000?text=+) (Hex: `#FFFF66` | R: `255` G: `255` B: `102`)
 
 Invisibles: ![#7F7F7F](https://placehold.it/15/7F7F7F/000000?text=+) (Hex: `#7F7F7F` | R: `127` G: `127` B: `127`)
+
+---
+
+📍Made in PDX
